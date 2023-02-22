@@ -1,0 +1,52 @@
+# Android Studio and gradle specific
+.gradle
+/.idea
+/build
+/app/build
+/router-annotation/build/
+/router-processor/build/
+*.iml
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+release.keystore
+bintray.properties
+local.properties
+build.properties
+
+# OSX files
+.DS_Store
+
+# Others
+/buildSrc/build
+/captures
+.externalNativeBuild
+.cxx
+*.log
+.externalNativeBuild/
+.cxx/
+output.json
+*.jks
+*.keystore
+*.hprof
+/app/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
