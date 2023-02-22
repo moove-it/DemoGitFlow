@@ -29,3 +29,24 @@ build.properties
 
 # OSX files
 .DS_Store
+
+# Others
+/buildSrc/build
+/captures
+.externalNativeBuild
+.cxx
+*.log
+.externalNativeBuild/
+.cxx/
+output.json
+*.jks
+*.keystore
+*.hprof
+/app/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
